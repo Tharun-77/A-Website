@@ -1,0 +1,19 @@
+{
+  "name": "a-website",
+  "version": "1.0.0",
+  "description": "to do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "aa"
+  },
+  "keywords": [
+    "as"
+  ],
+  "author": "tharun",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
