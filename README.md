@@ -3,3 +3,4 @@ Just my first project and not started yet
 yes now i began this so don't worry
 today i have added table to my website
 now this is for testing a github automation commit
+Fixing bug takes time
